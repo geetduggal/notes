@@ -4,7 +4,7 @@ Just a simple repo to track some of my thoughts without a lot of overhead.
 
 ## Productivity/note-taking
 
-Favorite apps: Typora, iA Writer
+* [Current setup](current-setup.md)
 
 ## Software Engineering
 
