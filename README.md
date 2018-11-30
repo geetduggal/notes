@@ -1,3 +1,3 @@
 # Notes
 
-[Static rendering][static-rendering.md]
+[Static rendering](static-rendering.md)
