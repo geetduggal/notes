@@ -2,7 +2,7 @@
 
 Just a simple repo to track some of my thoughts without a lot of overhead.
 
-## Productivity/note-taking
+## Productivity/Note-Taking
 
 * [Current setup](current-setup.md)
 
