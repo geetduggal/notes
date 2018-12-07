@@ -1,6 +1,6 @@
 # Notes
 
-Just a simple repo to track some of my thoughts without a lot of overhead.
+<color="blue">Just a simple repo to track some of my thoughts without a lot of overhead.</color>
 
 ## Productivity/Note-Taking
 
