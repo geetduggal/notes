@@ -4,6 +4,7 @@ Just a simple repo to track some of my thoughts without a lot of overhead.
 
 <pre>
 <b>Testing</b>
+<font color="red">Testing</font>
 </pre>
 
 ```
