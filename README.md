@@ -2,9 +2,9 @@
 
 Just a simple repo to track some of my thoughts without a lot of overhead.
 
-```
-<b>Testing</b>
-```
+<code>
+  <b>Testing</b>
+</code>
 
 ## Productivity/Note-Taking
 
