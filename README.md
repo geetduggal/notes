@@ -2,9 +2,9 @@
 
 Just a simple repo to track some of my thoughts without a lot of overhead.
 
-<code width="100%">
+<pre>
   <b>Testing</b>
-</code>
+</pre>
 
 ```
 Testing
