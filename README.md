@@ -3,7 +3,8 @@
 Just a simple repo to track some of my thoughts without a lot of overhead.
 
 <pre>
-  <b>Testing</b>
+<b>Testing</b>
+<font color="blue">Testing</font>
 </pre>
 
 ```
