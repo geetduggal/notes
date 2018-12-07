@@ -6,6 +6,10 @@ Just a simple repo to track some of my thoughts without a lot of overhead.
   <b>Testing</b>
 </code>
 
+```
+Testing
+```
+
 ## Productivity/Note-Taking
 
 * [Current setup](current-setup.md)
