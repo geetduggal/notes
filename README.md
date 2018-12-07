@@ -2,7 +2,7 @@
 
 Just a simple repo to track some of my thoughts without a lot of overhead.
 
-<code>
+<code width="100%">
   <b>Testing</b>
 </code>
 
