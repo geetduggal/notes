@@ -1,25 +1,16 @@
 # Notes
 
-Just a simple repo to track some of my thoughts without a lot of overhead.
+Just a simple repo to track some of my thoughts/notes-to-self without a lot of overhead.  If it is useful to others, that's nice too.
 
-<pre>
-<b>Testing</b>
-<font color="red">Testing</font>
-</pre>
+## About me
 
-```
-Testing
-```
+My name is Geet Duggal.  Here is my [LinkedIn profile](www.linkedin.com/in/geet-duggal-14321330) for more background.
 
-<script src="https://gist.github.com/geetduggal/d9702695b96b13532a291d74f7a38e38.js"></script>
+## Longer notes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fEsDM8jZN_g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* [Current setup](current-setup.md): habits and gadgets
 
-## Productivity/Note-Taking
-
-* [Current setup](current-setup.md)
-
-## Software Engineering
+## Quick notes
 
 * [Static rendering](static-rendering.md)
 * [Continuous builds](continuous-builds.md)
