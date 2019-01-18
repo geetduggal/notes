@@ -1,6 +1,4 @@
 # Notes
-&lt;
-
 Just a simple repo to track some of my thoughts/notes-to-self without a lot of overhead.  If it is useful to others, that's nice too.
 
 ## About me
