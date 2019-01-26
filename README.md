@@ -14,3 +14,8 @@ My name is Geet Duggal.  Here is my [LinkedIn profile](www.linkedin.com/in/geet-
 
 * [Static rendering](static-rendering.md)
 * [Continuous builds](continuous-builds.md)
+
+## Articles
+
+* [Test medium import](test-medium-import.md)
+

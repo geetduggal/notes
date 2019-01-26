@@ -23,7 +23,7 @@ Methodology:
 
 * Everything is a sorted list of files with little to no nested directory structure(date modified)
 * File names act as tags for filtering
-* TODO list and journal in one Markdown file
+* TODO list and journal in one Markdown file (thinking about benefits/drawbacks of splitting this up into multiple files)
 * Github repos also included in directory with files
 * Dropbox is the cloud medium for the files.
 * Typora is used on the Desktop for editing Markdown files
