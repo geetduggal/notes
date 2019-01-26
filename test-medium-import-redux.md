@@ -14,13 +14,6 @@ And testing that out.
 
 Does that work well?
 
+<script src="https://gist.github.com/geetduggal/2ae7ca9c58dc7c026b4d25f243ba7665.js"></script>
 
-
-```python
-def how_about_code:
-    pass
-
-if this_doesnt_work_blah:
-    pass
-```
-
+Oink
