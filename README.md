@@ -8,7 +8,7 @@ My name is Geet Duggal.  Here is my [LinkedIn profile](www.linkedin.com/in/geet-
 
 ## Longer notes
 
-* [Current setup](current-setup.md): habits and gadgets
+* [Current setup](current-setup.md#transportation): habits and gadgets
 
 ## Quick notes
 
