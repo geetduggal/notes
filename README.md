@@ -18,3 +18,6 @@ My name is Geet Duggal.  Here is my [LinkedIn profile](www.linkedin.com/in/geet-
 ## Articles
 
 
+## Misc
+
+{% youtube src="https://www.youtube.com/watch?v=9bZkp7q19f0" %}{% endyoutube %}
