@@ -1,43 +1,5 @@
 # Notes
 
-{% page-ref page="./" %}
-
-{% api-method method="get" host="" path="" %}
-{% api-method-summary %}
-Foo
-{% endapi-method-summary %}
-
-{% api-method-description %}
-
-{% endapi-method-description %}
-
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="" type="string" required=false %}
-
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
-{% endapi-method-request %}
-
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-
-{% endapi-method-response-example-description %}
-
-```
-
-```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
-
-$$
-a = b
-$$
-
 Just a simple repo to track some of my thoughts/notes-to-self without a lot of overhead. If it is useful to others, that's nice too.
 
 ## About me
@@ -52,6 +14,7 @@ My name is Geet Duggal. Here is my [LinkedIn profile](https://github.com/geetdug
 
 * [Static rendering](continuous-builds/static-rendering.md)
 * [Continuous builds](continuous-builds/)
+* [Testing markdown to medium](https://geetduggal-test.gitbook.io/project/~/edit/drafts/-L_9xHyZP3k1TdN3Whxm/test-medium-oink)
 
 ## Articles
 
