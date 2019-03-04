@@ -12,8 +12,8 @@ My name is Geet Duggal. Here is my [LinkedIn profile](https://github.com/geetdug
 
 ## Quick notes
 
-* [Static rendering](static-rendering.md)
-* [Continuous builds](continuous-builds.md)
+* [Static rendering](continuous-builds/static-rendering.md)
+* [Continuous builds](continuous-builds/)
 
 ## Articles
 
