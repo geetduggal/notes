@@ -1,5 +1,9 @@
 # Continuous builds
 
+| Foo | Bar | API |
+| :--- | :--- | :--- |
+| OTHR CONTER | FPP | XXX |
+
 I am currently experimenting with a simple continuous build system that:
 
 * Runs a simple test \(max a few minutes\)
