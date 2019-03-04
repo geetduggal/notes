@@ -8,13 +8,13 @@ My name is Geet Duggal. Here is my [LinkedIn profile](https://github.com/geetdug
 
 ## Longer notes
 
-* [Current setup](current-setup.md#transportation): habits and gadgets
+* [Current setup](current-setup/#transportation): habits and gadgets
 
 ## Quick notes
 
 * [Static rendering](continuous-builds/static-rendering.md)
 * [Continuous builds](continuous-builds/)
-* [Foo](fdojfoj.md)
+* [Foo](current-setup/fdojfoj.md)
 
 ## Articles
 
