@@ -1,10 +1,10 @@
 # Notes
-Just a simple repo to track some of my thoughts/notes-to-self without a lot of overhead.
-If it is useful to others, that's nice too.
+
+Just a simple repo to track some of my thoughts/notes-to-self without a lot of overhead. If it is useful to others, that's nice too.
 
 ## About me
 
-My name is Geet Duggal.  Here is my [LinkedIn profile](www.linkedin.com/in/geet-duggal-14321330) for more background.
+My name is Geet Duggal. Here is my [LinkedIn profile](https://github.com/geetduggal/notes/tree/719c78ec43b358c4b532992f56aa2f07246fae48/www.linkedin.com/in/geet-duggal-14321330/README.md) for more background.   Foo.
 
 ## Longer notes
 
@@ -17,8 +17,9 @@ My name is Geet Duggal.  Here is my [LinkedIn profile](www.linkedin.com/in/geet-
 
 ## Articles
 
-
 ## Misc
 
-{% youtube src="https://www.youtube.com/watch?v=9bZkp7q19f0" %}{% endyoutube %}
-https://www.youtube.com/watch?v=9bZkp7q19f0
+{% embed url="https://www.youtube.com/watch?v=9bZkp7q19f0" caption="" %}
+
+[https://www.youtube.com/watch?v=9bZkp7q19f0](https://www.youtube.com/watch?v=9bZkp7q19f0)
+

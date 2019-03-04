@@ -1,4 +1,4 @@
-# Current  setup 
+# Current  setup
 
 WIP doc
 
@@ -21,9 +21,9 @@ Components:
 
 Methodology:
 
-* Everything is a sorted list of files with little to no nested directory structure(date modified)
+* Everything is a sorted list of files with little to no nested directory structure\(date modified\)
 * File names act as tags for filtering
-* TODO list and journal in one Markdown file (thinking about benefits/drawbacks of splitting this up into multiple files)
+* TODO list and journal in one Markdown file \(thinking about benefits/drawbacks of splitting this up into multiple files\)
 * Github repos also included in directory with files
 * Dropbox is the cloud medium for the files.
 * Typora is used on the Desktop for editing Markdown files
@@ -39,9 +39,9 @@ Issues/room for improvement
 
 ## Transportation
 
-I currently own a 2015 Nissan Leaf SV as an experiment to ride electric since most of my transportation is local.  We have a 2015 Subaru Impreza in the family for longer trips.
+I currently own a 2015 Nissan Leaf SV as an experiment to ride electric since most of my transportation is local. We have a 2015 Subaru Impreza in the family for longer trips.
 
-For local transportation, I have an Imax S1+ which is better suited for longer distances and is a smoother, faster ride (but considerably heavier than my previous Uscooter).
+For local transportation, I have an Imax S1+ which is better suited for longer distances and is a smoother, faster ride \(but considerably heavier than my previous Uscooter\).
 
 ## Gadgets
 
@@ -55,14 +55,10 @@ For local transportation, I have an Imax S1+ which is better suited for longer d
 ## Home
 
 * Google Home: 3 homes and 2 home hubs to be scattered throughout our condo for controlling lights, music, and providing useful info when desired.
-
 * Google Wifi
-
 * Instant Pot: I love this thing for cooking
-
 
 ## Favorite Apps
 
-
-
 ## Favorite Entertainment
+
