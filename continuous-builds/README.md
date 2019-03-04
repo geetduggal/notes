@@ -9,3 +9,5 @@ I can then perform a manual release by running a script that performs a larger s
 
 Example: [dxda](https://github.com/geetduggal/notes/tree/0ab8ff3c31fae32a5ef500d572c5f87a63abe943/github.com/dnanexus/dxda/README.md) \(See the Travis YAML file, the Dockerfile, and create\_release.sh script, e.g.\)
 
+![Testing a caption out.](../.gitbook/assets/screen-shot-2018-10-05-at-1.54.01-pm.png)
+
