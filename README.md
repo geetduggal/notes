@@ -14,7 +14,7 @@ My name is Geet Duggal. Here is my [LinkedIn profile](https://github.com/geetdug
 
 * [Static rendering](continuous-builds/static-rendering.md)
 * [Continuous builds](continuous-builds/)
-* [Testing markdown to medium](https://geetduggal-test.gitbook.io/project/~/edit/drafts/-L_9xHyZP3k1TdN3Whxm/test-medium-oink)
+* [Foo](fdojfoj.md)
 
 ## Articles
 
