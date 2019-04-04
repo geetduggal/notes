@@ -6,8 +6,8 @@
 
 * [This is how to have your books and articles read to you for free](articles/this-is-how-to-have-your-books-and-articles-read-to-you-for-free.md)
 
-## Development
+## Quick notes
 
-* [Notes on Static Rendering](development/static-rendering.md)
-* [Continuous builds](development/continuous-builds.md)
+* [Notes on Static Rendering](quick-notes/static-rendering.md)
+* [Continuous builds](quick-notes/continuous-builds.md)
 
