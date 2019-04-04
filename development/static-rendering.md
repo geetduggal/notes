@@ -8,3 +8,5 @@ I wonder whether just using a prettier version of the Github rendering addresses
 
 Github Pages I think does a pretty good job in a default way, and you can add [custom themes](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site/) and custom domains as well. [Check it out for this repo](https://geetduggal.github.io/notes/). If something like Gatsby can be configured to work like Github pages in a reasonably headache-free way that would be great for its slickness in rendering.
 
+Gitbook seems like a nice option as well.
+
