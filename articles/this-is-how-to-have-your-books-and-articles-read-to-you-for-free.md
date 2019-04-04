@@ -1,10 +1,6 @@
----
-description: >-
-  Siri just read an entire book to me. It's not a perfect solution, but I really
-  like it.
----
-
 # This is how to have your books and articles read to you for free
+
+### Siri just read an entire book to me. It's not a perfect solution, but I really like it.
 
 From podcasting to audiobooks, it seems like audio is the new video, and over the last few years I have found that I am increasingly using audio as a way to learn. For me, it is great to have this option for these reasons:
 
