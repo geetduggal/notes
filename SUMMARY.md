@@ -2,9 +2,9 @@
 
 * [About Geet](README.md)
 
-## Articles
+## Consumption
 
-* [This is how to have your books and articles read to you for free](articles/this-is-how-to-have-your-books-and-articles-read-to-you-for-free.md)
+* [This is how to have your books and articles read to you for free](consumption/this-is-how-to-have-your-books-and-articles-read-to-you-for-free.md)
 
 ## Quick notes
 
